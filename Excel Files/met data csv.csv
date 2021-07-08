@@ -1,0 +1,818 @@
+﻿ID,Activity_ID,Description,METs
+1,1,"bicycling, mountain, uphill, vigorous",14
+2,1,"bicycling, mountain, competitive, racing",16
+3,1,"bicycling, BMX",8.5
+4,1,"bicycling, mountain, general",8.5
+5,1,"bicycling, <16 kmh, leisure, to work or for pleasure",4
+6,1,"bicycling, to/from work, self selected pace",6.8
+7,1,"bicycling, on dirt or farm road, moderate pace",5.8
+8,1,"bicycling, general",7.5
+9,1,"bicycling, leisure, 8 kmh",3.5
+10,1,"bicycling, leisure, 14 kmh",5.8
+11,1,"bicycling, 16-19 kmh, leisure, slow, light effort",6.8
+12,1,"bicycling, 19-22 kmh, leisure, moderate effort",8
+13,1,"bicycling, 22-26 kmh, racing or leisure, fast, vigorous effort",10
+14,1,"bicycling, 26-30 kmh, racing/not drafting or > 30 kmh drafting, very fast, racing general",12
+15,1,"bicycling, > 30 kmh, racing, not drafting",15.8
+16,1,"bicycling, 20 kmh, seated, hands on brake hoods or bar drops",8.5
+17,1,"bicycling, 20 kmh, standing, hands on brake hoods",9
+18,1,unicycling,5
+19,2,"activity promoting video game (e.g., Wii Fit), light effort (e.g., balance, yoga)",2.3
+20,2,"activity promoting video game (e.g., Wii Fit), moderate effort (e.g., aerobic, resistance)",3.8
+21,2,"activity promoting video/arcade game (e.g., Exergaming, Dance Dance Revolution), vigorous effort",7.2
+22,2,"army type obstacle course exercise, boot camp training program",5
+23,2,"bicycling, stationary, general",7
+24,2,"bicycling, stationary, 30-50 watts, very light to light effort",3.5
+25,2,"bicycling, stationary, 90-100 watts, moderate to vigorous effort",6.8
+26,2,"bicycling, stationary, 101-160 watts, vigorous effort",8.8
+27,2,"bicycling, stationary, 161-200 watts, vigorous effort",11
+28,2,"bicycling, stationary, 201-270 watts, very vigorous effort",14
+29,2,"bicycling, stationary, 51-89 watts, light-to-moderate effort",4.8
+30,2,"bicycling, stationary, RPM/Spin bike class",8.5
+31,2,"calisthenics (e.g., push ups, sit ups, pull-ups, jumping jacks), vigorous effort",8
+32,2,"calisthenics (e.g., push ups, sit ups, pull-ups, lunges), moderate effort",3.8
+33,2,"calisthenics (e.g., situps, abdominal crunches), light effort",2.8
+34,2,"calisthenics, light or moderate effort, general (e.g., back exercises), going up & down from floor ( 150)",3.5
+35,2,"circuit training, moderate effort",4.3
+36,2,"circuit training, including kettlebells, some aerobic movement with minimal rest, general, vigorous intensity",8
+37,2,CurvesTM exercise routines in women ,3.5
+38,2,"Elliptical trainer, moderate effort",5
+39,2,"resistance training (weight lifting, free weight, nautilus or universal), power lifting or body building, vigorous effort",6
+40,2,"resistance (weight) training, squats , slow or explosive effort",5
+41,2,"resistance (weight) training, multiple exercises, 8-15 repetitions at varied resistance",3.5
+42,2,"health club exercise, general",5.5
+43,2,"health club exercise classes, general, gym/weight training combined in one visit",5
+44,2,"health club exercise, conditioning classes",7.8
+45,2,"home exercise, general",3.8
+46,2,"stair-treadmill ergometer, general",9
+47,2,"rope skipping, general",12.3
+48,2,"rowing, stationary ergometer, general, vigorous effort",6
+49,2,"rowing, stationary, general, moderate effort",4.8
+50,2,"rowing, stationary, 100 watts, moderate effort",7
+51,2,"rowing, stationary, 150 watts, vigorous effort",8.5
+52,2,"rowing, stationary, 200 watts, very vigorous effort",12
+53,2,"ski machine, general",6.8
+54,2,"slide board exercise, general",11
+55,2,"slimnastics, jazzercise",6
+56,2,"stretching, mild",2.3
+57,2,"pilates, general",3
+58,2,"teaching exercise class (e.g., aerobic, water)",6.8
+59,2,"therapeutic exercise ball, Fitball exercise",2.8
+60,2,"upper body exercise, arm ergometer",2.8
+61,2,"upper body exercise, stationary bicycle – Airdyne (arms only) 40 rpm, moderate",4.3
+62,2,"water aerobics, water calisthenics, water exercise",5.3
+63,2,"whirlpool, sitting",1.3
+64,2,"video exercise workouts, TV conditioning programs (e.g., yoga, stretching), light effort",2.3
+65,2,"video exercise workouts, TV conditioning programs (e.g., cardio-resistance), moderate effort",4
+66,2,"video exercise workouts, TV conditioning programs (e.g., cardio-resistance), vigorous effort",6
+67,2,"yoga, Hatha",2.5
+68,2,"yoga, Power",4
+69,2,"yoga, Nadisodhana",2
+70,2,"yoga, Surya Namaskar",3.3
+71,2,"native New Zealander physical activities (e.g., Haka Powhiri, Moteatea, Waita Tira, Whakawatea, etc.), general, moderate effort",5.3
+72,2,"native New Zealander physical activities (e.g., Haka, Taiahab), general, vigorous effort",6.8
+73,3,"ballet, modern, or jazz, general, rehearsal or class",5
+74,3,"ballet, modern, or jazz, performance, vigorous effort",6.8
+75,3,tap,4.8
+76,3,"aerobic, general",7.3
+77,3,"aerobic, step, with 15 – 20 cm step",7.5
+78,3,"aerobic, step, with 20 – 30 cm step",9.5
+79,3,"aerobic, step, with 10 cm step",5.5
+80,3,"bench step class, general",8.5
+81,3,"aerobic, low impact",5
+82,3,"aerobic, high impact",7.3
+83,3,aerobic dance wearing 4.5 - 6.8 kg weights,10
+84,3,"ethnic or cultural dancing (e.g., Greek, Middle Eastern, hula, salsa, merengue, bamba y plena, flamenco, belly, and swing)",4.5
+85,3,"ballroom, fast",5.5
+86,3,"general dancing (e.g., disco, folk, Irish step dancing, line dancing, polka, contra, country)",7.8
+87,3,"ballroom dancing, competitive, general",11.3
+88,3,"ballroom, slow (e.g., waltz, foxtrot, slow dancing, samba, tango, 19th century dance, mambo, cha cha)",3
+89,3,Anishinaabe Jingle Dancing,5.5
+90,3,"Caribbean dance (Abakua, Beguine, Bellair, Bongo, Brukin’s, Caribbean Quadrills, Dinki Mini, Gere, Gumbay, Ibo, Jonkonnu, Kumina, Oreisha, Jambu)",3.5
+91,4,"fishing, general",3.5
+92,4,"fishing, crab fishing",4.5
+93,4,"fishing, catching fish with hands",4
+94,4,"fishing related, digging worms, with shovel",4.3
+95,4,fishing from river bank and walking,4
+96,4,"fishing from boat or canoe, sitting",2
+97,4,"fishing from river bank, standing",3.5
+98,4,"fishing in stream, in waders",6
+99,4,"fishing, ice, sitting",2
+100,4,"fishing, jog or line, standing, general",1.8
+101,4,"fishing, dip net, setting net and retrieving fish, general",3.5
+102,4,"fishing, set net, setting net and retrieving fish, general",3.8
+103,4,"fishing, fishing wheel, setting net and retrieving fish, general",3
+104,4,"fishing with a spear, standing",2.3
+105,4,"hunting, bow and arrow, or crossbow",2.5
+106,4,"hunting, deer, elk, large game",6
+107,4,"hunting large game, dragging carcass",11.3
+108,4,hunting large marine animals,4
+109,4,"hunting large game, from a hunting stand, limited walking",2.5
+110,4,"hunting large game from a car, plane, or boat",2
+111,4,"hunting, duck, wading",2.5
+112,4,"hunting, flying fox, squirrel",3
+113,4,"hunting, general",5
+114,4,"hunting, pheasants or grouse",6
+115,4,"hunting, birds",3.3
+116,4,"hunting, rabbit, squirrel, prairie chick, raccoon, small game",5
+117,4,"hunting, pigs, wild",3.3
+118,4,"trapping game, general",2
+119,4,"hunting, hiking with hunting gear",9.5
+120,4,"pistol shooting or trap shooting, standing",2.5
+121,4,"rifle exercises, shooting, lying down",2.3
+122,4,"rifle exercises, shooting, kneeling or standing",2.5
+123,5,"cleaning, sweeping carpet or floors, general",3.3
+124,5,"cleaning, sweeping, slow, light effort",2.3
+125,5,"cleaning, sweeping, slow, moderateeffort",3.8
+126,5,"cleaning, heavy or major (e.g. wash car, wash windows, clean garage), moderate effort",3.5
+127,5,"cleaning, mopping, standing, moderate effort",3.5
+128,5,"cleaning windows, washing windows, general",3.2
+129,5,"mopping, standing, light effort",2.5
+130,5,"polishing floors, standing, walking slowly, using electric polishing machine",4.5
+131,5,"multiple household tasks all at once, light effort",2.8
+132,5,"multiple household tasks all at once, moderate effort",3.5
+133,5,"multiple household tasks all at once, vigorous effort",4.3
+134,5,"cleaning, house or cabin, general, moderate effort",3.3
+135,5,"dusting or polishing furniture, general",2.3
+136,5,"kitchen activity, general, (e.g., cooking, washing dishes, cleaning up), moderate effort",3.3
+137,5,"cleaning, general (straightening up, changing linen, carrying out trash, light effort",2.5
+138,5,"wash dishes, standing or in general (not broken into stand/walk components)",1.8
+139,5,"wash dishes, clearing dishes from table, walking, light effort",2.5
+140,5,"vacuuming, general, moderate effort",3.3
+141,5,"butchering animals, small",3
+142,5,"butchering animal, large, vigorous effort",6
+143,5,"cutting and smoking fish, drying fish or meat",2.3
+144,5,"tanning hides, general",4
+145,5,"cooking or food preparation, moderate effort",3.5
+146,5,"cooking or food preparation – standing or sitting or in general (not broken into stand/walk components), manual appliances, light effort",2
+147,5,"serving food, setting table, implied walking or standing",2.5
+148,5,"cooking or food preparation, walking",2.5
+149,5,feeding household animals,2.5
+150,5,"putting away groceries (e.g. carrying groceries, shopping without a grocery cart), carrying packages",2.5
+151,5,carrying groceries upstairs,7.5
+152,5,cooking Indian bread on an outside stove,3
+153,5,"food shopping with or without a grocery cart, standing or walking",2.3
+154,5,"non-food shopping, with or without a cart, standing or walking",2.3
+155,5,ironing,1.8
+156,5,"knitting, sewing, light effort, wrapping presents, sitting",1.3
+157,5,sewing with a machine,2.8
+158,5,"laundry, fold or hang clothes, put clothes in washer or dryer, packing suitcase, washing clothes by hand, implied standing, light effort",2
+159,5,"laundry, hanging wash, washing clothes by hand, moderate effort",4
+160,5,"laundry, putting away clothes, gathering clothes to pack, putting away laundry, implied walking",2.3
+161,5,"making bed, changing linens",3.3
+162,5,"maple syruping/sugar bushing (including carrying buckets, carrying wood)",5
+163,5,"moving furniture, household items, carrying boxes",5.8
+164,5,"moving, lifting light loads",5
+165,5,organizing room,4.8
+166,5,"scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, moderate effort",3.5
+167,5,"scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, light effort",2
+168,5,"scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, vigorous effort",6.5
+169,5,"sweeping garage, sidewalk or outside of house",4
+170,5,"standing, packing/unpacking boxes, occasional lifting of lightweight household items, loading or unloading items in car, moderate effort",3.5
+171,5,"implied walking, putting away household items, moderate effort",3
+172,5,watering plants,2.5
+173,5,building a fire inside,2.5
+174,5,"moving household items upstairs, carrying boxes or furniture",9
+175,5,"standing, light effort tasks (pump gas, change light bulb, etc.)",2
+176,5,"walking, moderate effort tasks, non-cleaning (readying to leave, shut/lock doors, close windows, etc.)",3.5
+177,5,"sitting, playing with child(ren), light effort, only active periods",2.2
+178,5,"standing, playing with child(ren) light effort, only active periods",2.8
+179,5,"walking/running, playing with child(ren), moderate effort, only active periods",3.5
+180,5,"walking/running, playing with child(ren), vigorous effort, only active periods",5.8
+181,5,"walking and carrying small child, child weighing 6.8 kg or more",3
+182,5,"walking and carrying small child, child weighing less than 6.8 kg",2.3
+183,5,"standing, holding child",2
+184,5,"child care, infant, general",2.5
+185,5,"child care, sitting/kneeling (e.g., dressing, bathing, grooming, feeding, occasional lifting of child), light effort, general",2
+186,5,"child care, standing (e.g., dressing, bathing, grooming, feeding, occasional lifting of child), moderate effort",3
+187,5,reclining with baby,1.5
+188,5,"breastfeeding, sitting or reclining",2
+189,5,"sit, playing with animals, light effort, only active periods",2.5
+190,5,"stand, playing with animals, light effort, only active periods",2.8
+191,5,"walk/run, playing with animals, general, light effort, only active periods",3
+192,5,"walk/run, playing with animals, moderate effort, only active periods",4
+193,5,"walk/run, playing with animals, vigorous effort, only active periods",5
+194,5,"standing, bathing dog",3.5
+195,5,"animal care, household animals, general",2.3
+196,5,"elder care, disabled adult, bathing, dressing, moving into and out of bed, only active periods",4
+197,5,"elder care, disabled adult, feeding, combing hair, light effort, only active periods",2.3
+198,6,airplane repair,3
+199,6,automobile body work,4
+200,6,"automobile repair, light or moderate effort",3.3
+201,6,"carpentry, general, workshop",3
+202,6,"carpentry, outside house, installing rain gutters,carpentry, outside house, building a fence",6
+203,6,"carpentry, outside house, building a fence",3.8
+204,6,"carpentry, finishing or refinishing cabinets or furniture",3.3
+205,6,"carpentry, sawing hardwood",6
+206,6,"carpentry, home remodeling tasks, moderate effort",4
+207,6,"carpentry, home remodeling tasks, light effort",2.3
+208,6,"caulking, chinking log cabin",5
+209,6,"caulking, except log cabin",4.5
+210,6,cleaning gutters,5
+211,6,excavating garage,5
+212,6,hanging storm windows,5
+213,6,hanging sheet rock inside house,5
+214,6,hammering nails,3
+215,6,"home repair, general, light effort",2.5
+216,6,"home repair, general, moderate effort",4.5
+217,6,"home repair, general, vigorous effort",6
+218,6,laying or removing carpet,4.5
+219,6,"laying tile or linoleum,repairing appliances",3.8
+220,6,repairing appliances,3
+221,6,"painting, outside home",5
+222,6,"painting inside house,wallpapering, scraping paint",3.3
+223,6,painting,4.5
+224,6,"plumbing, general",3
+225,6,put on and removal of tarp – saikgoat,3
+226,6,roofing,6
+227,6,sanding floors with a power sander,4.5
+228,6,scraping and painting saikgoat or powerboat,4.5
+229,6,sharpening tools,2
+230,6,spreading dirt with a shovel,5
+231,6,washing and waxing hull of saikgoat or airplane,4.5
+232,6,washing and waxing car,2
+233,6,"washing fence, painting fence, moderate effort",4.5
+234,6,"wiring, tapping-splicing",3.3
+235,7,lying quietly and watching television,1
+236,7,"lying quietly, doing nothing, lying in bed awake, listening to music (not talking or reading)",1.3
+237,7,sitting quietly and watching television,1.3
+238,7,"sitting quietly, general",1.3
+239,7,"sitting quietly, fidgeting, general, fidgeting hands",1.5
+240,7,"sitting, fidgeting feet",1.8
+241,7,"sitting, smoking",1.3
+242,7,"sitting, listening to music (not talking or reading) or watching a movie in a theater",1.5
+243,7,"sitting at a desk, resting head in hands",1.3
+244,7,sleeping,0.95
+245,7,"standing quietly, standing in a line",1.3
+246,7,"standing, fidgeting",1.8
+247,7,"reclining, writing",1.3
+248,7,"reclining, talking or talking on phone",1.3
+249,7,"reclining, reading",1.3
+250,7,meditating,1
+251,8,"carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to-moderate effort",3.3
+252,8,"carrying, loading or stacking wood, loading/unloading or carrying lumber",5.5
+253,8,"chopping wood, splitting logs, moderate effort",4.5
+254,8,"chopping wood, splitting logs, vigorous effort",6.3
+255,8,"clearing light brush, thinning garden, moderate effort",3.5
+256,8,"clearing brush/land, undergrowth, or ground, hauling branches, wheekgarrow chores, vigorous effort",6.3
+257,8,"digging sandbox, shoveling sand",5
+258,8,"digging, spading, filling garden, composting, light-to-moderate effort",3.5
+259,8,"digging, spading, filling garden, compositing",5
+260,8,"digging, spading, filling garden, composting, vigorous effort",7.8
+261,8,driving tractor,2.8
+262,8,"felling trees, large size",8.3
+263,8,"felling trees, small-medium size",5.3
+264,8,"gardening with heavy power tools, tilling a garden, chain saw",5.8
+265,8,"gardening, using containers, older adults > 60 years",2.3
+266,8,"irrigation channels, opening and closing ports",4
+267,8,laying crushed rock,6.3
+268,8,laying sod,5
+269,8,"mowing lawn, general",5.5
+270,8,"mowing lawn, riding mower",2.5
+271,8,"mowing lawn, walk, hand mower",6
+272,8,"mowing lawn, walk, power mower, moderate or vigorous effort",5
+273,8,"mowing lawn, power mower, light or moderate effort",4.5
+274,8,"operating snow blower, walking",2.5
+275,8,"planting, potting, transplanting seedlings or plants, light effort",2
+276,8,"planting seedlings, shrub, stooping, moderate effort",4.3
+277,8,"planting crops or garden, stooping, moderate effort",4.3
+278,8,planting trees,4.5
+279,8,"raking lawn or leaves, moderate effort",3.8
+280,8,raking lawn,4
+281,8,raking roof with snow rake,4
+282,8,riding snow blower,3
+283,8,"sacking grass, leaves",4
+284,8,shoveling dirt or mud,5.5
+285,8,"shoveling snow, by hand, moderate effort",5.3
+286,8,"shoveling snow, by hand",6
+287,8,"shoveling snow, by hand, vigorous effort",7.5
+288,8,"trimming shrubs or trees, manual cutter",4
+289,8,"trimming shrubs or trees, power cutter, using leaf blower, edge, moderate effort",3.5
+290,8,"walking, applying fertilizer or seeding a lawn, push applicator",3
+291,8,"watering lawn or garden, standing or walking",1.5
+292,8,"weeding, cultivating garden, light-to-moderate effort",3.5
+293,8,"weeding, cultivating garden",4.5
+294,8,"weeding, cultivating garden, using a hoe, moderate-to-vigorous effort",5
+295,8,"gardening, general, moderate effort",3.8
+296,8,"picking fruit off trees, picking fruits/vegetables, moderate effort",3.5
+297,8,"picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort",4.5
+298,8,"implied walking/standing – picking up yard, light, picking flowers or vegetables",3.3
+299,8,"walking, gathering gardening tools",3
+300,8,"wheekgarrow, pushing garden cart or wheekgarrow",5.5
+301,8,"yard work, general, light effort",3
+302,8,"yard work, general, moderate effort",4
+303,8,"yard work, general, vigorous effort",6
+304,9,"board game playing, sitting",1.5
+305,9,"casino gambling, standing",2.5
+306,9,"card playing,sitting",1.5
+307,9,"chess game, sitting",1.5
+308,9,"copying documents, standing",1.5
+309,9,"drawing, writing, painting, standing",1.8
+310,9,"laughing, sitting",1
+311,9,"sitting, reading, book, newspaper, etc.",1.3
+312,9,"sitting, writing, desk work, typing",1.3
+313,9,"sitting, playing traditional video game, computer game",1
+314,9,"standing, talking in person, on the phone, computer, or text messaging, light effort",1.8
+315,9,"sitting, talking in person, on the phone, computer, or text messaging, light effort",1.5
+316,9,"sitting, studying, general, including reading and/or writing, light effort",1.3
+317,9,"sitting, in class, general, including note-taking or class discussion",1.8
+318,9,"standing, reading",1.8
+319,9,"standing, miscellaneous",2.5
+320,9,"sitting, arts and crafts, carving wood, weaving, spinning wool, light effort",1.8
+321,9,"sitting, arts and crafts, carving wood, weaving, spinning wool, moderate effort",3
+322,9,"standing, arts and crafts, sand painting, carving, weaving, light effort",2.5
+323,9,"standing, arts and crafts, sand painting, carving, weaving, moderate effort",3.3
+324,9,"standing, arts and crafts, sand painting, carving, weaving, vigorous effort",3.5
+325,9,"retreat/family reunion activities involving sitting, relaxing, talking, eating",1.8
+326,9,retreat/family reunion activities involving playing games with children,3
+327,9,touring/traveling/vacation involving riding in a vehicle,2
+328,9,touring/traveling/vacation involving walking,3.5
+329,9,"camping involving standing, walking, sitting, light-to-moderate effort",2.5
+330,9,"sitting at a sporting event, spectator",1.5
+331,10,"accordion, sitting",1.8
+332,10,"cello, sitting",2.3
+333,10,"conducting orchestra, standing",2.3
+334,10,"double bass, standing",2.5
+335,10,"drums, sitting",3.8
+336,10,"drumming (e.g., bongo, conga, benbe), moderate, sitting",3
+337,10,"flute, sitting",2
+338,10,"horn, standing",1.8
+339,10,"piano, sitting",2.3
+340,10,"playing musical instruments, general",2
+341,10,"organ, sitting",2
+342,10,"trombone, standing",3.5
+343,10,"trumpet, standing",1.8
+344,10,"violin, sitting",2.5
+345,10,"woodwind, sitting",1.8
+346,10,"guitar, classical, folk, sitting",2
+347,10,"guitar, rock and roll band, standing",3
+348,10,"marching band, baton twirling, walking, moderate pace, general",4
+349,10,"marching band, playing an instrument, walking, brisk pace, general",5.5
+350,10,"marching band, drum major, walking",3.5
+351,11,"active workstation, treadmill desk, walking",2.3
+352,11,airline flight attendant,3
+353,11,"bakery, general, moderate effort",4
+354,11,"bakery, light effort",2
+355,11,bookbinding,2.3
+356,11,"building road, driving heavy machinery",6
+357,11,"building road, directing traffic, standing",2
+358,11,"carpentry, general, light effort",2.5
+359,11,"carpentry, general, moderate effort",4.3
+360,11,"carpentry, general, heavy or vigorous effort",7
+361,11,"carrying heavy loads (e.g., bricks, tools)",8
+362,11,"carrying moderate loads up stairs, moving boxes 11 - 23 kg",8
+363,11,"chambermaid, hotel housekeeper, making bed, cleaning bathroom, pushing cart",4
+364,11,"coal mining, drilling coal, rock",5.3
+365,11,"coal mining, erecting supports",5
+366,11,"coal mining, general",5.5
+367,11,"coal mining, shoveling coal",6.3
+368,11,"cook, chef",2.5
+369,11,"construction, outside, remodeling, new structures (e.g., roof repair, miscellaneous)",4
+370,11,"custodial work, light effort (e.g., cleaning sink and toilet, dusting, vacuuming, light cleaning)",2.3
+371,11,"custodial work, moderate effort (e.g., electric buffer, feathering arena floors, mopping, taking out trash, vacuuming)",3.8
+372,11,"electrical work (e.g., hook up wire, tapping-splicing)",3.3
+373,11,"engineer (e.g., mechanical or electrical)",1.8
+374,11,"farming, vigorous effort (e.g., baling hay, cleaning barn)",7.8
+375,11,"farming, moderate effort (e.g., feeding animals, chasing cattle by walking and/or horseback, spreading manure, harvesting crops)",4.8
+376,11,"farming, light effort (e.g., cleaning animal sheds, preparing animal feed)",2
+377,11,"farming, driving tasks (e.g., driving tractor or harvester)",2.8
+378,11,"farming, feeding small animals",3.5
+379,11,"farming, feeding cattle, horses",4.3
+380,11,"farming, hauling water for animals, general hauling water,farming, general hauling water",4.3
+381,11,"farming, taking care of animals (e.g., grooming, brushing, shearing sheep, assisting with birthing, medical care, branding), general",4.5
+382,11,"farming, rice, planting, grain milling activities",3.8
+383,11,"farming, milking by hand, cleaning pails, moderate effort",3.5
+384,11,"farming, milking by machine, light effort",1.3
+385,11,"fire fighter, general",8
+386,11,"fire fighter, rescue victim, automobile accident, using pike pole",6.8
+387,11,"fire fighter, raising and climbing ladder with full gear, simulated fire suppression",8
+388,11,"fire fighter, hauling hoses on ground, carrying/hoisting equipment, breaking down walls etc., wearing full gear",9
+389,11,"fishing, commercial, light effort",3.5
+390,11,"fishing, commercial, moderate effort",5
+391,11,"fishing, commercial, vigorous effort",7
+392,11,"forestry, ax chopping, very fast, 1.25 kg axe, 51 blows/min, extremely vigorous effort",17.5
+393,11,"forestry, ax chopping, slow, 1.25 kg axe, 19 blows/min, moderate effort",5
+394,11,"forestry, ax chopping, fast, 1.25 kg axe, 35 blows/min, vigorous effort",8
+395,11,"forestry, moderate effort (e.g., sawing wood with power saw, weeding, hoeing)",4.5
+396,11,"forestry, vigorous effort (e.g., barking, felling, or trimming trees, carrying or stacking logs, planting seeds, sawing lumber by hand)",8
+397,11,furriery,4.5
+398,11,"garbage collector, walking, dumping bins into truck",4
+399,11,"hairstylist (e.g., plaiting hair, manicure, make-up artist)",1.8
+400,11,"horse grooming, including feeding, cleaning stalls, bathing, brushing, clipping, longeing and exercising horses",7.3
+401,11,"horse, feeding, watering, cleaning stalls, implied walking and lifting loads",4.3
+402,11,"horse racing, galloping",7.3
+403,11,"horse racing, trotting",5.8
+404,11,"horse racing, walking",3.8
+405,11,kitchen maid,3
+406,11,"lawn keeper, yard work, general",4
+407,11,laundry worker,3.3
+408,11,locksmith,3
+409,11,"machine tooling (e.g., machining, working sheet metal, machine fitter, operating lathe, welding) light-to-moderate effort",3
+410,11,"Machine tooling, operating punch press, moderate effort",5
+411,11,"manager, property",1.8
+412,11,"manual or unskilled labor, general, light effort",2.8
+413,11,"manual or unskilled labor, general, moderate effort",4.5
+414,11,"manual or unskilled labor, general, vigorous effort",6.5
+415,11,"masonry, concrete, moderate effort",4.3
+416,11,"masonry, concrete, light effort",2.5
+417,11,"massage therapist, standing",4
+418,11,"moving, carrying or pushing heavy objects, 34 kg or more, only active time (e.g., desks, moving van work)",7.5
+419,11,"skindiving or SCUBA diving as a frogman, Navy Seal",12
+420,11,"operating heavy duty equipment, automated, not driving",2.5
+421,11,"orange grove work, picking fruit",4.5
+422,11,"painting,house, furniture, moderate effort",3.3
+423,11,plumbing activities,3
+424,11,"printing, paper industry worker, standing",2
+425,11,"police, directing traffic, standing",2.5
+426,11,"police, driving a squad car, sitting",2.5
+427,11,"police, riding in a squad car, sitting",1.3
+428,11,"police, making an arrest, standing",4
+429,11,"postal carrier, walking to deliver mail",2.3
+430,11,"shoe repair, general",2
+431,11,"shoveling, digging ditches",7.8
+432,11,"shoveling, more than 7.3 kg/minute, deep digging, vigorous effort",8.8
+433,11,"shoveling, less than 4.5 kg/minute, moderate effort",5
+434,11,"shoveling, 4.5 to 6.8 kg/minute, vigorous effort",6.5
+435,11,"sitting tasks, light effort (e.g., office work, chemistry lab work, computer work, light assembly repair, watch repair, reading, desk work)",1.5
+436,11,"sitting meetings, light effort, general, and/or with talking involved (e.g., eating at a business meeting)",1.5
+437,11,"sitting tasks, moderate effort (e.g., pushing heavy levers, riding mower/forklift, crane operation)",2.5
+438,11,"sitting, teaching stretching or yoga, or light effort exercise class",2.8
+439,11,"standing tasks, light effort (e.g., bartending, store clerk, assembling, filing, duplicating, librarian, putting up a Christmas tree, standing and talking at work, changing clothes when teaching physical education, standing)",3
+440,11,"standing, light/moderate effort (e.g., assemble/repair heavy parts, welding,stocking parts,auto repair,standing, packing boxes, nursing patient care)",3
+441,11,"standing, moderate effort, lifting items continuously, 4.5 – 9 kg, with limited walking or resting",4.5
+442,11,"standing, moderate effort, intermittent lifting 23 kg, hitch/twisting ropes",3.5
+443,11,"standing, moderate/heavy tasks (e.g., lifting more than 23 kg, masonry, painting, paper hanging)",4.5
+444,11,"steel mill, moderate effort (e.g., fettling, forging, tipping molds)",5.3
+445,11,"steel mill, vigorous effort (e.g., hand rolling, merchant mill rolling, removing slag, tending furnace)",8.3
+446,11,"tailoring, cutting fabric",2.3
+447,11,"tailoring, general",2.5
+448,11,"tailoring, hand sewing",1.8
+449,11,"tailoring, machine sewing",2.5
+450,11,"tailoring, pressing",3.5
+451,11,"tailoring, weaving, light effort (e.g., finishing operations, washing, dyeing, inspecting cloth, counting yards, paperwork)",2
+452,11,"tailoring, weaving, moderate effort (e.g., spinning and weaving operations, delivering boxes of yam to spinners, loading of warp bean, pinwinding, conewinding, warping, cloth cutting)",4
+453,11,"truck driving, loading and unloading truck, tying down load, standing, walking and carrying heavy loads",6.5
+454,11,"Truck, driving delivery truck, taxi, shuttlebus, school bus",2
+455,11,"typing, electric, manual or computer",1.3
+456,11,"using heavy power tools such as pneumatic tools (e.g., jackhammers, drills)",6.3
+457,11,"using heavy tools (not power) such as shovel, pick, tunnel bar, spade",8
+458,11,"walking on job, less than 3.2 kmh, very slow speed, in office or lab area",2
+459,11,"walking on job, 5 kmh, in office, moderate speed, not carrying anything",3.5
+460,11,"walking on job, 6 kmh, in office, brisk speed, not carrying anything",4.3
+461,11,"walking on job, 4 kmh, slow speed and carrying light objects less than 11 kg",3.5
+462,11,"walking, gathering things at work, ready to leave",3
+463,11,"walking, 4 kmh, slow speed, carrying heavy objects more than 11 kg",3.8
+464,11,"walking, 5 kmh, moderately and carrying light objects less than 11 kg",4.5
+465,11,"walking, pushing a wheelchair",3.5
+466,11,"walking, 6 kmh, briskly and carrying objects less than 11 kg",4.8
+467,11,"walking or walk downstairs or standing, carrying objects about 11 to 22 kg",5
+468,11,"walking or walk downstairs or standing, carrying objects about 23 to 33 kg",6.5
+469,11,"walking or walk downstairs or standing, carrying objects about 34 to 45 kg",7.5
+470,11,"walking or walk downstairs or standing, carrying objects about 45 kg or more",8.5
+471,11,"working in scene shop, theater actor, backstage employee",3
+472,12,jog/walk combination (jogging component of less than 10 minutes),6
+473,12,"jogging, general",7
+474,12,"jogging, in place",8
+475,12,"jogging, on a mini-tramp",4.5
+476,12,"Running, 6.4 kmh ",6
+477,12,"running, 8 kmh ",8.3
+478,12,"running, 9.6 kmh",9.8
+479,12,"running, 11.2 kmh ",11
+480,12,"running, 12.8 kmh ",11.8
+481,12,"running, 14.4 kmh ",12.8
+482,12,"running, 16 kmh ",14.5
+483,12,"running, 17.6 kmh ",16
+484,12,"running, 19.2 kmh",19
+485,12,"running, 20.8 kmh ",19.8
+486,12,"running, 22.4 kmh",23
+487,12,"running, cross country",9
+488,12,running,8
+489,12,"running, stairs, up",15
+490,12,"running, on a track, team practice",10
+491,12,"running, training, pushing a wheelchair or baby carrier",8
+492,12,"running, marathon",13.3
+493,13,"getting ready for bed, general, standing",2.3
+494,13,"sitting on toilet, eliminating while standing or squatting",1.8
+495,13,"bathing, sitting",1.5
+496,13,"dressing, undressing, standing or sitting",2.5
+497,13,"eating, sitting",1.5
+498,13,"talking and eating or eating only, standing",2
+499,13,"taking medication, sitting or standing",1.5
+500,13,"grooming, washing hands, shaving, brushing teeth, putting on make-up, sitting or standing",2
+501,13,"hairstyling, standing",2.5
+502,13,"having hair or nails done by someone else, sitting",1.3
+503,13,"showering, toweling off, standing",2
+504,14,"active, vigorous effort",2.8
+505,14,"general, moderate effort",1.8
+506,14,"passive, light effort, kissing, hugging",1.3
+507,15,"Alaska Native Games, Eskimo Olympics, general",5.5
+508,15,"archery, non-hunting",4.3
+509,15,"badminton, competitive",7
+510,15,"badminton, social singles and doubles, general",5.5
+511,15,"basketball, game",8
+512,15,"basketball, non-game, general",6
+513,15,"basketball, general",6.5
+514,15,"basketball, officiating",7
+515,15,"basketball, shooting baskets",4.5
+516,15,"basketball, drills, practice",9.3
+517,15,"basketball, wheelchair",7.8
+518,15,billiards,2.5
+519,15,bowling,3
+520,15,"bowling, indoor, bowling alley",3.8
+521,15,"boxing, in ring, general",12.8
+522,15,"boxing, punching bag",5.5
+523,15,"boxing, sparring",7.8
+524,15,broomball,7
+525,15,"children’s games, adults playing (e.g., hopscotch, 4-square, dodgeball, playground apparatus, t-ball, tetherball, marbles, arcade games), moderate effort",5.8
+526,15,"cheerleading, gymnastic moves, competitive",6
+527,15,"coaching, football, soccer, basketball, baseball, swimming, etc.",4
+528,15,"coaching, actively playing sport with players",8
+529,15,"cricket, batting, bowling, fielding",4.8
+530,15,croquet,3.3
+531,15,curling,4
+532,15,"darts, wall or lawn",2.5
+533,15,"drag racing, pushing or driving a car",6
+534,15,"auto racing, open wheel",8.5
+535,15,fencing,6
+536,15,"football, competitive",8
+537,15,"football, touch, flag, general",8
+538,15,"football, touch, flag, light effort",4
+539,15,"football or baseball, playing catch",2.5
+540,15,"frisbee playing, general",3
+541,15,"frisbee, ultimate",8
+542,15,"golf, general",4.8
+543,15,"golf, walking, carrying clubs",4.3
+544,15,"golf, miniature, driving range",3
+545,15,"golf, walking, pulling clubs",5.3
+546,15,"golf, using power cart",3.5
+547,15,"gymnastics, general",3.8
+548,15,hacky sack,4
+549,15,"handball, general",12
+550,15,"handball, team",8
+551,15,"high ropes course, multiple elements",4
+552,15,hang gliding,3.5
+553,15,"hockey, field",7.8
+554,15,"hockey, ice, general",8
+555,15,"hockey, ice, competitive",10
+556,15,"horseback riding, general",5.5
+557,15,"horse chores, feeding, watering, cleaning stalls, implied walking and lifting loads",4.3
+558,15,"saddling, cleaning, grooming, harnessing and unharnessing horse",4.5
+559,15,"horseback riding, trotting",5.8
+560,15,"horseback riding, canter or gallop",7.3
+561,15,"horseback riding,walking",3.8
+562,15,"horseback riding, jumping",9
+563,15,"horse cart, driving, standing or sitting",1.8
+564,15,"horseshoe pitching, quoits",3
+565,15,jai alai,12
+566,15,"martial arts, different types, slower pace, novice performers, practice",5.3
+567,15,"martial arts, different types, moderate pace (e.g., judo, jujitsu, karate, kick boxing, tae kwan do, tai-bo, Muay Thai boxing)",10.3
+568,15,juggling,4
+569,15,kickball,7
+570,15,lacrosse,8
+571,15,"lawn bowling, bocce ball, outdoor",3.3
+572,15,"moto-cross, off-road motor sports, all-terrain vehicle, general",4
+573,15,orienteering,9
+574,15,"paddleball, competitive",10
+575,15,"paddleball, casual, general",6
+576,15,"polo, on horseback",8
+577,15,"racquetball, competitive",10
+578,15,"racquetball, general",7
+579,15,rock or mountain climbing,8
+580,15,"rock climbing, ascending rock, high difficulty",7.5
+581,15,"rock climbing, ascending or traversing rock, low-to-moderate difficulty",5.8
+582,15,"rock climbing, rappelling",5
+583,15,"rodeo sports, general, light effort",4
+584,15,"rodeo sports, general, moderate effort",5.5
+585,15,"rodeo sports, general, vigorous effort",7
+586,15,"rope jumping, fast pace, 120-160 skips/min",12.3
+587,15,"rope jumping, moderate pace, 100-120 skips/min, general, 2 foot skip, plain bounce",11.8
+588,15,"rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce",8.8
+589,15,"rugby, union, team, competitive",8.3
+590,15,"rugby, touch, non-competitive",6.3
+591,15,shuffleboard,3
+592,15,"skateboarding, general, moderate effort",5
+593,15,"skateboarding, competitive, vigorous effort",6
+594,15,"skating, roller",7
+595,15,"rollerblading, in-line skating, 14.4 km/h recreational pace",7.5
+596,15,"rollerblading, in-line skating, 17.7 km/h moderate pace, exercise training",9.8
+597,15,"rollerblading, in-line skating, 21.0 to 21.7 km/h , fast pace, exercise training",12.3
+598,15,"rollerblading, in-line skating, 24.0 km/h, maximal effort",14
+599,15,"skydiving, base jumping, bungee jumping",3.5
+600,15,"soccer, competitive",10
+601,15,"soccer, casual, general",7
+602,15,"softball or baseball, fast or slow pitch, general",5
+603,15,"softball, practice",4
+604,15,"softball, officiating",4
+605,15,"softball, pitching",6
+606,15,"sports spectator, very excited, emotional, physically moving",3.3
+607,15,squash,12
+608,15,"squash, general",7.3
+609,15,"table tennis, ping pong",4
+610,15,"tai chi, qi gong, general",3
+611,15,"tai chi, qi gong, sitting, light effort",1.5
+612,15,"tennis, general",7.3
+613,15,"tennis, doubles",6
+614,15,"tennis, doubles",4.5
+615,15,"tennis, singles",8
+616,15,"tennis, hitting balls, non-game play, moderate effort",5
+617,15,"trampoline, recreational",3.5
+618,15,"trampoline, competitive",4.5
+619,15,volleyball,4
+620,15,"volleyball, competitive, in gymnasium",6
+621,15,"volleyball, non-competitive, 6 – 9 member team, general",3
+622,15,"volleyball, beach, in sand",8
+623,15,wrestling (one match = 5 minutes),6
+624,15,"wallyball, general",7
+625,15,"track and field (e.g., shot, discus, hammer throw)",4
+626,15,"track and field (e.g., high jump, long jump, triple jump, javelin, pole vault)",6
+627,15,"track and field (e.g., steeplechase, hurdles)",10
+628,16,automobile or light truck (not a semi) driving,2.5
+629,16,riding in a car or truck,1.3
+630,16,riding in a bus or train,1.3
+631,16,flying airplane or helicopter,1.8
+632,16,"motor scooter, motorcycle",3.5
+633,16,pulling rickshaw,6.3
+634,16,pushing plane in and out of hangar,6
+635,16,"truck, semi, tractor, > 1 ton, or bus, driving",2.5
+636,16,"walking for transportation, 3.7-5.12 kmh, level, moderate pace, firm surface",3.5
+637,17,backpacking,7
+638,17,"backpacking, hiking or organized walking with a daypack",7.8
+639,17,"carrying 6.8 kg load (e.g. suitcase), level ground or downstairs",5
+640,17,"carrying 6.8 kg child, slow walking",2.3
+641,17,"carrying load upstairs, general",8.3
+642,17,"carrying 0.5 to 6.8 kg load, upstairs",5
+643,17,"carrying 7.2 to 10.88 kg load, upstairs",6
+644,17,"carrying 11 to 22 kg load, upstairs",8
+645,17,"carrying 23 to 33.56 kg load, upstairs",10
+646,17,"carrying > 34 kg load, upstairs",12
+647,17,"loading /unloading a car, implied walking",3.5
+648,17,"climbing hills, no load",6.3
+649,17,climbing hills with 0 to 4 kg load,6.5
+650,17,climbing hills with 4.5 to 9 kg load,7.3
+651,17,climbing hills with 9.5 to 19 kg load,8.3
+652,17,climbing hills with 20+ kg load,9
+653,17,descending stairs,3.5
+654,17,"hiking, cross country",6
+655,17,hiking or walking at a normal pace through fields and hillsides,5.3
+656,17,"bird watching, slow walk",2.5
+657,17,"marching, moderate speed, military, no pack",4.5
+658,17,"marching rapidly, military, no pack",8
+659,17,"pushing or pulling stroller with child or walking with children, 4 to 4.8 kmh",4
+660,17,"pushing a wheelchair, non-occupational",3.8
+661,17,race walking,6.5
+662,17,"stair climbing, using or climbing up ladder",8
+663,17,"stair climbing, slow pace",4
+664,17,"stair climbing, fast pace",8.8
+665,17,using crutches,5
+666,17,"walking, household",2
+667,17,"walking, less than 3.2 kmh, level, strolling, very slow",2
+668,17,"walking, 3.2 kmh, level, slow pace, firm surface",2.8
+669,17,walking for pleasure,3.5
+670,17,"walking from house to car or bus, from car or bus to go places, from car or bus to and from the worksite",2.5
+671,17,walking to neighbor’s house or family’s house for social reasons,2.5
+672,17,walking the dog,3
+673,17,"walking, 4 kmh, level, firm surface",3
+674,17,"walking, 4 kmh, downhill",3.3
+675,17,"walking, 4.5 to 5.1 kmh, level, moderate pace, firm surface",3.5
+676,17,"walking, 5.6 kmh, level, brisk, firm surface, walking for exercise",4.3
+677,17,"walking, 4.6 to 5.6 kmh, uphill, 1 to 5% grade",5.3
+678,17,"walking, 4.5 to 5.6 kmh, uphill, 6% to 15% grade",8
+679,17,"walking, 6.4 kmh, level, firm surface, very brisk pace",5
+680,17,"walking, 7.2 kmh, level, firm surface, very, very brisk",7
+681,17,"walking, 8 kmh, level, firm surface",8.3
+682,17,"walking, 8 kmh, uphill, 3% grade",9.8
+683,17,"walking, for pleasure, work break",3.5
+684,17,"walking, grass track",4.8
+685,17,"walking, normal pace, plowed field or sand",4.5
+686,17,"walking, to work or class",4
+687,17,"walking, to and from an outhouse",2.5
+688,17,"walking, for exercise, 5.6 to 6.4 kmh, with ski poles, Nordic walking, level, moderate pace",4.8
+689,17,"walking, for exercise, 8 kmh, with ski poles, Nordic walking, level, fast pace",9.5
+690,17,"walking, for exercise, with ski poles, Nordic walking, uphill",6.8
+691,17,"walking, backwards, 5.6 kmh, level",6
+692,17,"walking, backwards, 5.6 kmh, uphill, 5% grade",8
+693,18,"boating, power, driving",2.5
+694,18,"boating, power, passenger, light",1.3
+695,18,"canoeing, on camping trip",4
+696,18,"canoeing, harvesting wild rice, knocking rice off the stalks",3.3
+697,18,"canoeing, portaging",7
+698,18,"canoeing, rowing, 3.2-6.4 kmh, light effort",2.8
+699,18,"canoeing, rowing, 6.4-9.6 kmh, moderate effort",5.8
+700,18,"canoeing, rowing, kayaking, competition, >9.6 kmh, vigorous effort",12.5
+701,18,"canoeing, rowing, for pleasure, general",3.5
+702,18,"canoeing, rowing, in competition, or crew or sculling",12
+703,18,"diving, springboard or platform",3
+704,18,"kayaking, moderate effort",5
+705,18,paddle boat,4
+706,18,"sailing, boat and board sailing, windsurfing, ice sailing, general",3
+707,18,"sailing, in competition",4.5
+708,18,"sailing, Sunfish/Laser/Hobby Cat, Keel boats, ocean sailing, yachting, leisure",3.3
+709,18,"skiing, water or wakeboarding",6
+710,18,"jet skiing, driving, in water",7
+711,18,"skindiving, fast",15.8
+712,18,"skindiving, moderate",11.8
+713,18,"skindiving, scuba diving, general",7
+714,18,snorkeling,5
+715,18,"surfing, body or board, general",3
+716,18,"surfing, body or board, competitive",5
+717,18,"paddle boarding, standing",6
+718,18,"swimming laps, freestyle, fast, vigorous effort",9.8
+719,18,"swimming laps, freestyle, front crawl, slow, light or moderate effort",5.8
+720,18,"swimming, backstroke, general, training or competition",9.5
+721,18,"swimming, backstroke, recreational",4.8
+722,18,"swimming, breaststroke, general, training or competition",10.3
+723,18,"swimming, breaststroke, recreational",5.3
+724,18,"swimming, butterfly, general",13.8
+725,18,"swimming, crawl, fast speed, ~75 yards/minute, vigorous effort",10
+726,18,"swimming, crawl, medium speed, ~50 yards/minute, vigorous effort",8.3
+727,18,"swimming, lake, ocean, river",6
+728,18,"swimming, leisurely, not lap swimming, general",6
+729,18,"swimming, sidestroke, general",7
+730,18,"swimming, synchronized",8
+731,18,"swimming, treading water, fast, vigorous effort",9.8
+732,18,"swimming, treading water, moderate effort, general",3.5
+733,18,"tubing, floating on a river, general",2.3
+734,18,"water aerobics, water calisthenics",5.5
+735,18,water polo,10
+736,18,water volleyball,3
+737,18,water jogging,9.8
+738,18,"water walking, light effort, slow pace",2.5
+739,18,"water walking, moderate effort, moderate pace",4.5
+740,18,"water walking, vigorous effort, brisk pace",6.8
+741,18,"whitewater rafting, kayaking, or canoeing",5
+742,18,"windsurfing, not pumping for speed",5
+743,18,"windsurfing or kitesurfing, crossing trial",11
+744,18,"windsurfing, competition, pumping for speed",13.5
+745,19,"dog sledding, mushing",7.5
+746,19,"dog sledding, passenger",2.5
+747,19,"moving ice house, set up/drill holes",6
+748,19,"ice fishing, sitting",2
+749,19,"skating, ice dancing",14
+750,19,"skating, ice, 14.5 kmh or less",5.5
+751,19,"skating, ice, general",7
+752,19,"skating, ice, rapidly, more than 14.5 kmh, not competitive",9
+753,19,"skating, speed, competitive",13.3
+754,19,"ski jumping, climb up carrying skis",7
+755,19,"skiing, general",7
+756,19,"skiing, cross country, 4 kmh, slow or light effort, ski walking",6.8
+757,19,"skiing, cross country, 6.4-8 kmh, moderate speed and effort, general",9
+758,19,"skiing, cross country, 8-12.8 kmh, brisk speed, vigorous effort",12.5
+759,19,"skiing, cross country, >12.8 kmh, elite skier, racing",15
+760,19,"skiing, cross country, hard snow, uphill, maximum, snow mountaineering",15.5
+761,19,"skiing, cross-country, skating",13.3
+762,19,"skiing, cross-country, biathlon, skating technique",13.5
+763,19,"skiing, downhill, alpine or snowboarding, light effort, active time only",4.3
+764,19,"skiing, downhill, alpine or snowboarding, moderate effort, general, active time only",5.3
+765,19,"skiing, downhill, vigorous effort, racing",8
+766,19,"skiing, roller, elite racers",12.5
+767,19,"sledding, tobogganing, bobsledding, luge",7
+768,19,"snow shoeing, moderate effort",5.3
+769,19,"snow shoeing, vigorous effort",10
+770,19,"snowmobiling, driving, moderate",3.5
+771,19,"snowmobiling, passenger",2
+772,19,"snow shoveling, by hand, moderate effort",5.3
+773,19,"snow shoveling, by hand, vigorous effort",7.5
+774,19,"snow blower, walking and pushing",2.5
+775,11,"sitting in church, in service, attending a ceremony, sitting quietly",1.3
+776,11,"sitting, playing an instrument at church",2
+777,11,"sitting in church, talking or singing, attending a ceremony, sitting, active participation",1.8
+778,11,"sitting, reading religious materials at home",1.3
+779,11,"standing quietly in church, attending a ceremony",1.3
+780,11,"standing, singing in church, attending a ceremony, standing, active participation",2
+781,11,"kneeling in church or at home, praying",1.3
+782,11,"standing, talking in church",1.8
+783,11,walking in church,2
+784,11,"walking, less than 3.2 kmh, very slow",2
+785,11,"walking, 4.8 kmh, moderate speed, not carrying anything",3.5
+786,11,"walking, 5.6 kmh, brisk speed, not carrying anything",4.3
+787,11,"walk/stand combination for religious purposes, usher",2
+788,11,"praise with dance or run, spiritual dancing in church",5
+789,11,serving food at church,2.5
+790,11,preparing food at church,2
+791,11,"washing dishes, cleaning kitchen at church",3.3
+792,11,eating at church,1.5
+793,11,"eating/talking at church or standing eating, American Indian Feast days",2
+794,11,cleaning church,3.3
+795,11,general yard work at church,4
+796,11,"standing, moderate effort (e.g., lifting heavy objects, assembling at fast rate)",3.5
+797,11,"Standing, moderate-to-heavy effort, manual labor, lifting 23 kg, heavy maintenance",4.5
+798,11,"typing, electric, manual, or computer",1.3
+799,16,"sitting, meeting, general, and/or with talking involved",1.5
+800,16,"sitting, light office work, in general",1.5
+801,16,"sitting, moderate work",2.5
+802,16,"standing, light work (filing, talking, assembling)",2.3
+803,16,"sitting, child care, only active periods",2
+804,16,"standing, child care, only active periods",3
+805,16,"walk/run play with children, moderate, only active periods",3.5
+806,16,"walk/run play with children, vigorous, only active periods",5.8
+807,16,"standing, light/moderate work (e.g., pack boxes, assemble/repair, set up chairs/furniture)",3
+808,16,"standing, moderate (lifting 23 kg., assembling at fast rate)",3.5
+809,16,"standing, moderate/heavy work",4.5
+810,16,"typing, electric, manual, or computer",1.3
+811,16,"walking, less than 3.2 kmh, very slow",2
+812,16,"walking, 4.8 kmh, moderate speed, not carrying anything",3.5
+813,16,"walking, 5.6 kmh, brisk speed, not carrying anything",4.3
+814,16,"walking, 4 kmh slowly and carrying objects less than 11 kg",3.5
+815,16,"walking, 4.8 kmh moderately and carrying objects less than 11 kg, pushing something",4.5
+816,16,"walking, 4.8 kmh, briskly and carrying objects less than 11 kg",4.8
+817,16,"walk/stand combination, for volunteer purposes",3

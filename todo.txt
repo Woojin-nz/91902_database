@@ -1,0 +1,19 @@
+Remove 0 hours where necessary ✅
+
+Fix search so calculator display when users search for an item ✅
+
+Fix instruction to user so it is more clear (add headings on results page <change activity / recalculate> ✅
+
+Order menu items alphabetically ✅
+
+Edit disclaimer (expand a bit) ✅
+
+Edit text on home page so that it tells users what to do.  Maybe put a nice image there?
+
+Check activity search.  Did you use a wildcard?  Use 'or' to search on multiple columns ✅
+
+Add activity to calculation answer page ✅
+
+eg: It would take you 24 minutes of Hunting and fishing to burn off 240 calories ✅
+
+    mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT); #TO CHECK SPECFIC ERROR CODES
